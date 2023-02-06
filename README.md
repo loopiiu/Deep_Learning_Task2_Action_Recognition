@@ -1,0 +1,2 @@
+# Deep_Learning_Task2_Action_Recognition
+Action recognition using LSTM
